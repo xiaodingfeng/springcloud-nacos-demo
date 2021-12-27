@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: nacos-gateway
+server:
+  port: 9000
+
+
+
